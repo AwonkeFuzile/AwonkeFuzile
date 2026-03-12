@@ -18,7 +18,7 @@
 
 ## About Me  
 
-I am a **computational health informatics and bioinformatics researcher** currently pursuing my MSc in Computational Health Informatics at the **University of Cape Town**.  
+I am a **computational health informatician** currently pursuing my MSc in Computational Health Informatics at the **University of Cape Town**.  
 
 My interests include:  
 - genomic and variant calling workflows  
@@ -99,8 +99,8 @@ Right now, I am learning and building skills in:
 ## Background  
 
 **MSc Computational Health Informatics** – University of Cape Town  
-**BSc Honours Bioinformatics** – [Add if applicable]  
-**Bachelor of Health System Sciences** – [Add if applicable]  
+**BSc Honours in Physiology**                
+**Bachelor of medical science**  
 
 ---
 
