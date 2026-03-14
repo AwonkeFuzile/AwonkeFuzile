@@ -12,42 +12,37 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-> Currently pursiung my MSc 
+ 
 ---
 
 ## About Me  
 
-I am a **computational health informatician** currently pursuing my MSc in Computational Health Informatics at the **University of Cape Town**.  
+I am a **Computational Health Informatics MSc student at the University of Cape Town** with a background in Medical Sciences and Physiology.
 
-My interests include:  
-- genomic and variant calling workflows  
-- machine learning for drug response prediction  
-- reproducible scientific computing  
-- healthcare data analytics and reporting  
-- African genomics and precision medicine innovation  
+My work focuses on learning how **computational tools, data science, and bioinformatics can be applied to biological and health data**. I am particularly interested in **genomics, bioinformatics workflows, and healthcare data analysis**.
 
-I enjoy creating systems that are not only scientifically rigorous but also **usable, reproducible, and deployment-ready**.
+I enjoy building reproducible and transparent research workflows that make scientific analysis easier to run, share, and scale.
 
 ---
 
-## Current Build Mode  
+## Current Learning Focus   
 
-Right now, I am learning and building skills in:  
-- **multi-omics machine learning models** for drug response prediction  
-- **Nextflow and Snakemake workflows** for reproducible genomic analysis  
-- **containerized bioinformatics environments** using Docker and Singularity for HPC and cloud-ready execution  
-- expanding my portfolio across **AI, healthcare analytics, and scientific programming**
+Right now, I am learning and building skills in:
+- **Bioinformatics workflows** for genomic analysis
+- **Reproducible scientific computing** using workflow managers
+- **Data analysis and visualization** for biomedical datasets
+- **Linux and command-line tools** for computational research
+- **Scientific programming in Python and R**
 
 ---
 
 ## Featured Projects  
 
-*(Projects in progress — currently learning and developing skills. Will be updated as repositories are completed.)*  
+*(Projects I am currently building as part of my learning)*  
 
 - **Variant Calling Workflow (in progress)**  
 - **Containerized QC & Trimming Environment (in progress)**  
-- **Multi-omics ML Models (in progress)**  
+- **Multi-omics ML Models (in progress)**
 
 ---
 
@@ -60,46 +55,41 @@ Right now, I am learning and building skills in:
 * Bash  
 
 ### Machine Learning & Data Science  
-* PyTorch  
-* Scikit-learn  
-* XGBoost  
-* Pandas, NumPy  
-* Matplotlib, Seaborn  
+* Pandas
+* Numpy
+* Matplotlib  
+* R tidyverse
+  
 
 ### Bioinformatics  
-* bcftools, samtools, SnpEff  
+* bcftools, samtools
 * FastQC, MultiQC  
 * Scanpy  
 
 ### Workflow & Infrastructure  
 * Nextflow  
-* Snakemake  
 * Docker, Singularity  
 * Linux, SLURM  
-* Git  
-
-### Analytics & Reporting  
-* Power BI  
-* Excel  
-* Scientific Reporting  
+* Git 
 
 ---
 
 ## Research Interests  
 
-* Machine Learning for Drug Response Prediction  
-* Multi-Omics Data Integration  
-* Computational Genomics  
-* Bioinformatics Workflow Engineering  
-* AI for Precision Medicine  
-* African Biomedical Data Innovation  
+* Computational Genomics
+* Bioinformatics Workflow Development
+* Health Data Science
+* Biomedical Data Analysis
+* African Genomics and Precision Medicine
 
 ---
 
 ## Background  
 
-**MSc Computational Health Informatics** – University of Cape Town  
-**BSc Honours in Physiology**                
+**MSc Computational Health Informatics** – University of Cape Town
+
+**BSc Honours in Physiology**
+
 **Bachelor of medical science**  
 
 ---
